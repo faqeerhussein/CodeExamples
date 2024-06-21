@@ -10,7 +10,7 @@ To run the example code, you need to use the `dotnet` CLI command. Since the rep
 dotnet run --project <project_filename.csproj>
 ```
 
-## Example
+## Example Commands
 
 For example to run the example code about variables, run the following command:
 
@@ -23,3 +23,9 @@ And to run the example code about ternary_operator, run the following command:
 ```bash
 dotnet run --project ternary_operator.csproj
 ```
+
+So, you can run all code examples on your machine following the above stated command pattern.
+
+
+## License
+This repository is licensed under the MIT License.
