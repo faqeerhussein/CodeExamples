@@ -1,4 +1,4 @@
-# C# Code Examples from "Visual Programming" by Faqeer Hussain
+# Code Examples from "Visual Programming" by Faqeer Hussain
 
 This repository contains C# code examples provided in the booklet **"Visual Programming" by Faqeer Hussain**. The examples are organized into multiple projects within a single directory. 
 
