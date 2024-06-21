@@ -9,3 +9,11 @@ To run the example code, you need to use the `dotnet` CLI command. Since the rep
 ```bash
 dotnet run --project <project_name>
 ```
+
+## Example
+
+For example to run the example code about variables, run the following command:
+
+```bash
+dotnet run --project variables
+```
